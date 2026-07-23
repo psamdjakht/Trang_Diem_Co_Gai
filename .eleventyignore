@@ -1,0 +1,5 @@
+11ty/*.md
+*.php
+*.rtf
+index_no_php.html
+.gitignore
