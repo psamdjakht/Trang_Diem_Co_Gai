@@ -44,3 +44,6 @@ You can also read Ninique's old readme [here](README-old.md) for more informatio
 - Sửa tọa độ tự căn của quần lót: `x=105, y=165`.
 - Sửa tọa độ tự căn của váy: `x=103, y=160`.
 - Thêm mã phiên bản vào file JavaScript để GitHub Pages và Safari không dùng lại cấu hình cũ trong bộ nhớ đệm.
+
+
+Patch note v1.0.3: raised Tops and Full-body snap positions so collars sit closer to the neck on mobile.

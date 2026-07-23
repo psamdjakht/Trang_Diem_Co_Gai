@@ -17,8 +17,8 @@
 	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/lottev1991/html2canvas@1.6.5-custom/dist/html2canvas.min.js" crossorigin="anonymous"></script>
 
 	<!-- Mobile snap positions and native drag controls. -->
-	<script type="text/javascript" src="scripts/dollmaker-config.js?v=1.0.2"></script>
-	<script type="text/javascript" src="scripts/drag.js?v=1.0.2"></script>
+	<script type="text/javascript" src="scripts/dollmaker-config.js?v=1.0.3"></script>
+	<script type="text/javascript" src="scripts/drag.js?v=1.0.3"></script>
 	
 	<!--remove the following line if you do not want anti-rightclick on images-->
 	<!-- Commented this out by default because I really don't care. Uncomment it for your own project if you like. -->
