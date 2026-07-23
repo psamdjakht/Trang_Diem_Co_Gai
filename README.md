@@ -40,3 +40,7 @@ As for online testing, many web hosting providers already provide a so-called [L
 I've written down a *lot* of notes in the files provided with this fork, and I recommend you read them if you plan on making your own dollmaker. Some of them are pretty important! (*Especially* the ones related to html2canvas. That library will need quite a bit of "hacking" in order to work properly.)
 
 You can also read Ninique's old readme [here](README-old.md) for more information. You can ignore the part about the default dollmaker pieces; I've replaced them with my own and I don't care if people reuse them, as long as you credit me. You can find the license [here](LICENSE-default-images), or a more human-readable version [here](https://creativecommons.org/licenses/by-sa/4.0/). You're of course still free to replace them with your own, I really don't care either way. (The above license *only* counts for the default images I created; any images you create yourself will of course be licensed under your own terms.)
+## Bản sửa 1.0.1
+- Sửa tọa độ tự căn của quần lót: `x=105, y=165`.
+- Sửa tọa độ tự căn của váy: `x=103, y=160`.
+- Thêm mã phiên bản vào file JavaScript để GitHub Pages và Safari không dùng lại cấu hình cũ trong bộ nhớ đệm.
